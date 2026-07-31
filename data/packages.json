@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Starter",
+        "price": "$499",
+        "features": [
+            "5-page static website",
+            "Mobile-optimized design",
+            "Contact form",
+            "1 month of support",
+            "Business cards (500)"
+        ]
+    },
+    {
+        "name": "Pro",
+        "price": "$999",
+        "features": [
+            "10-page static website",
+            "Mobile-optimized design",
+            "Contact form",
+            "Blog integration",
+            "Business cards (1000)",
+            "Flyers (500)",
+            "3 months of support"
+        ]
+    },
+    {
+        "name": "Guerrilla",
+        "price": "$1,499",
+        "features": [
+            "15-page static website",
+            "Mobile-optimized design",
+            "Contact form",
+            "Blog integration",
+            "Complete print package",
+            "Guerrilla marketing campaign",
+            "Physical signs & props",
+            "6 months of support"
+        ]
+    }
+]

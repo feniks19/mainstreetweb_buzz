@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Why Static Websites Are Perfect for Small Businesses",
+        "slug": "why-static-sites",
+        "url": "blog/why-static-sites.html",
+        "date": "July 28, 2026",
+        "image": "why-static-sites.jpg",
+        "excerpt": "Discover why static websites are faster, cheaper, and more secure than WordPress for small businesses."
+    },
+    {
+        "title": "Guerrilla Marketing Ideas for Orange County Businesses",
+        "slug": "guerrilla-marketing-tips",
+        "url": "blog/guerrilla-marketing-tips.html",
+        "date": "July 25, 2026",
+        "image": "guerrilla-marketing-tips.jpg",
+        "excerpt": "Creative, low-cost marketing strategies to get your business noticed in Orange County."
+    },
+    {
+        "title": "Local SEO Tips for Southern California Small Businesses",
+        "slug": "local-seo-oc",
+        "url": "blog/local-seo-oc.html",
+        "date": "July 22, 2026",
+        "image": "local-seo-oc.jpg",
+        "excerpt": "How to rank higher on Google Maps and attract more customers in Orange County."
+    }
+]
