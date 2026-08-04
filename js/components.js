@@ -10,7 +10,7 @@ function loadHeader() {
                 <div class="container">
                     <div class="nav-wrapper">
                         <a href="index.html" class="logo">
-                            <img src="assets/icons/logo.svg" alt="Mainstreet Web Buzz" class="logo-img">
+                            <img src="/assets/icons/logo.svg" alt="Mainstreet Web Buzz" class="logo-img">
                             <span class="logo-text">Mainstreet <span class="logo-highlight">Web Buzz</span></span>
                         </a>
                         <button class="menu-toggle" aria-label="Toggle navigation menu">
@@ -52,7 +52,7 @@ function loadFooter() {
                 <div class="footer-grid">
                     <div class="footer-col">
                         <a href="index.html" class="footer-logo">
-                            <img src="assets/icons/logo.svg" alt="Mainstreet Web Buzz" class="footer-logo-img">
+                            <img src="/assets/icons/logo.svg" alt="Mainstreet Web Buzz" class="footer-logo-img">
                             Mainstreet <span class="logo-highlight">Web Buzz</span>
                         </a>
                         <p>Websites + Guerrilla Marketing for small businesses in Southern California and Orange County.</p>
